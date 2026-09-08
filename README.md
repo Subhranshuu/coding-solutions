@@ -39,11 +39,3 @@
 ├── codechef/
 └── gfg/
 ```
-
----
-
-<div align="center">
-
-*Last updated: 2026-09-08* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
-
-</div>
