@@ -28,7 +28,7 @@ Print $10$ lines of output; each line $i$ (where $1 \le i \le 10$) contains the 
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-15T17:05:02.507Z  
+**Submitted:** 2026-09-16T03:01:43.437Z  
 
 ```java
 import java.io.*;
