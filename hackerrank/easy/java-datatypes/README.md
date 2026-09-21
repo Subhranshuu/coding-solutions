@@ -40,7 +40,7 @@ If the number cannot be stored in one of the four aforementioned primitives, pri
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-16T03:03:43.244Z  
+**Submitted:** 2026-09-21T11:10:10.299Z  
 
 ```java
 import java.util.*;
